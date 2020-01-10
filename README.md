@@ -1,6 +1,6 @@
 # Nichijou.kr ver.2020
 
-[Nichijou.kr](www.nichijou.kr) ver.2020 
+[Nichijou.kr](http://www.nichijou.kr) ver.2020 
 
 Referred to UIkit and [get GitHub Repository](https://github.com/Xenia101/get-GitHub-Repository) was used
 
