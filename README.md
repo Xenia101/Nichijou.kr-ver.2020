@@ -13,7 +13,7 @@ Designed by XENIA
 |    ✔   	|       ✔      	|  ✔ 	|    ✔   	|   ✔   	|
 
 
-## 예시
+## EXAMPLE
 
 - PC
 
