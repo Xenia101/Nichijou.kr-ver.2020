@@ -12,6 +12,7 @@ Designed by XENIA
 |:------:	|:------------:	|:--:	|:------:	|:-----:	|
 |    ✔   	|       ✔      	|  ✔ 	|    ✔   	|   ✔   	|
 
+※ Safari - textarea does not support \n
 
 ## EXAMPLE
 
