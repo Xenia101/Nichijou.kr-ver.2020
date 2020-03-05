@@ -8,7 +8,7 @@ jQuery.fn.loadRepos = function(username) {
         var repos = data.data;
         sortByName(repos);    
       
-        var list = $('<div uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 500" class="uk-child-width-1-3@s uk-grid-match" uk-grid uk-grid="masonry: true"/>');
+        var list = $('<div uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 50" class="uk-child-width-1-3@s uk-grid-match" uk-grid uk-grid="masonry: true"/>');
         target.empty().append(list);
         $(repos).each(function() {
             if (this.name != (username.toLowerCase() + '.github.com') && this.name != (username.toLowerCase() + '.github.io')) {
